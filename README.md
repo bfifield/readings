@@ -7,3 +7,5 @@ The following link (<http://shinyapps.org/apps/RGraphCompendium/index.php>) is a
 The following link (<http://www.pythonforsocialscientists.org>) is a general introduction to Python for R and Stata users in the social sciences.
 
 Art Owen's monte carlo book (<http://statweb.stanford.edu/~owen/mc/>)
+
+Gradient Descent introduction (<http://ruder.io/optimizing-gradient-descent/>)
