@@ -9,3 +9,5 @@ The following link (<http://www.pythonforsocialscientists.org>) is a general int
 Art Owen's monte carlo book (<http://statweb.stanford.edu/~owen/mc/>)
 
 Gradient Descent introduction (<http://ruder.io/optimizing-gradient-descent/>)
+
+Bandit Algorithms book (<http://downloads.tor-lattimore.com/banditbook/book.pdf>)
