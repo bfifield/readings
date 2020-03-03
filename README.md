@@ -12,5 +12,7 @@ Gradient Descent introduction (<http://ruder.io/optimizing-gradient-descent/>)
 
 Bandit Algorithms book (<http://downloads.tor-lattimore.com/banditbook/book.pdf>)
 
+Discrete choice modeling book (<https://eml.berkeley.edu/books/choice2.html>)
+
 Hernán and Robins causal inference book (<https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>)
   - All the DAGs from the book (https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
