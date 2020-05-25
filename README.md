@@ -17,4 +17,6 @@ Discrete choice modeling book (<https://eml.berkeley.edu/books/choice2.html>)
 Bruce Hansen, Econometrics (<https://www.ssc.wisc.edu/~bhansen/econometrics/>)
 
 Hernán and Robins causal inference book (<https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>)
-  - All the DAGs from the book (https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
+  - All the DAGs from the book (<https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/>)
+
+Lundberg causal inference reading list (<https://scholar.princeton.edu/sites/default/files/ilundberg/files/lundberg_methods_reading_list.pdf>)
