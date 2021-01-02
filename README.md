@@ -14,6 +14,8 @@ Bandit Algorithms book (<http://downloads.tor-lattimore.com/banditbook/book.pdf>
 
 Discrete choice modeling book (<https://eml.berkeley.edu/books/choice2.html>)
 
+Kevin Murphy Probabilistic ML book (<https://probml.github.io/pml-book/book1.html>)
+
 Bruce Hansen, Econometrics (<https://www.ssc.wisc.edu/~bhansen/econometrics/>)
 
 Hernán and Robins causal inference book (<https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/>)
