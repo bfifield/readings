@@ -1,11 +1,5 @@
 ## Statistics, machine learning, and political science readings
 
-The following link (<http://mathesaurus.sourceforge.net>) gives useful cheat sheets for moving between R, Python, and Matlab.
-
-The following link (<http://shinyapps.org/apps/RGraphCompendium/index.php>) is a general guide to functional plotting in R.
-
-The following link (<http://www.pythonforsocialscientists.org>) is a general introduction to Python for R and Stata users in the social sciences.
-
 Art Owen's monte carlo book (<http://statweb.stanford.edu/~owen/mc/>) and design of experiments book (<https://statweb.stanford.edu/~owen/courses/363/doenotes.pdf>)
 
 Gradient Descent introduction (<http://ruder.io/optimizing-gradient-descent/>)
@@ -24,3 +18,5 @@ Hernán and Robins causal inference book (<https://www.hsph.harvard.edu/miguel-h
 Cunningham causal inference book (<https://mixtape.scunning.com/>)
 
 Lundberg causal inference reading list (<https://scholar.princeton.edu/sites/default/files/ilundberg/files/lundberg_methods_reading_list.pdf>)
+
+Nick Huntington-Klein "The Effect" (<https://www.theeffectbook.net/>)
