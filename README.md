@@ -20,3 +20,5 @@ Cunningham causal inference book (<https://mixtape.scunning.com/>)
 Lundberg causal inference reading list (<https://scholar.princeton.edu/sites/default/files/ilundberg/files/lundberg_methods_reading_list.pdf>)
 
 Nick Huntington-Klein "The Effect" (<https://www.theeffectbook.net/>)
+
+Blair, Coppock, Humphreys "Research Design" (<https://book.declaredesign.org/index.html>)
