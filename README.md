@@ -22,3 +22,9 @@ Lundberg causal inference reading list (<https://scholar.princeton.edu/sites/def
 Nick Huntington-Klein "The Effect" (<https://www.theeffectbook.net/>)
 
 Blair, Coppock, Humphreys "Research Design" (<https://book.declaredesign.org/index.html>)
+
+**Bookdown Sites**
+
+[Geocomputation with R (Lovelace)](https://geocompr.robinlovelace.net/)
+[Bayesian Inference with INLA (Gomez-Rubio)](https://becarioprecario.bitbucket.io/inla-gitbook/)
+[Spatial Data Science (Pebesma and Bivand)](https://keen-swartz-3146c4.netlify.app/)
