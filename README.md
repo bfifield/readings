@@ -28,3 +28,5 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 [Bayesian Inference with INLA (Gomez-Rubio)](https://becarioprecario.bitbucket.io/inla-gitbook/)
 
 [Spatial Data Science (Pebesma and Bivand)](https://keen-swartz-3146c4.netlify.app/)
+
+[Analyzing US Census Data (Walker)](https://walker-data.com/census-r/)
