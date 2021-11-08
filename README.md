@@ -21,6 +21,8 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 
 [Research Design (Blair, Coppock, Humphreys)](https://book.declaredesign.org/index.html)
 
+[R Dataset Collection (Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/)
+
 **Bookdown Sites**
 
 [Geocomputation with R (Lovelace)](https://geocompr.robinlovelace.net/)
