@@ -34,3 +34,7 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 [Analyzing US Census Data (Walker)](https://walker-data.com/census-r/)
 
 [Data Visualization (Healy)](https://socviz.co/)
+
+**Course Notes**
+
+[Causal Inference (Stanford, Wager)](https://web.stanford.edu/~swager/stats361.pdf)
