@@ -32,3 +32,5 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 [Spatial Data Science (Pebesma and Bivand)](https://keen-swartz-3146c4.netlify.app/)
 
 [Analyzing US Census Data (Walker)](https://walker-data.com/census-r/)
+
+[Data Visualization (Healy)](https://socviz.co/)
