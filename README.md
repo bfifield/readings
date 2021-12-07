@@ -23,6 +23,8 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 
 [R Dataset Collection (Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/)
 
+[Applying ML Link collection](https://applyingml.com/papers/)
+
 **Bookdown Sites**
 
 [Geocomputation with R (Lovelace)](https://geocompr.robinlovelace.net/)
