@@ -25,6 +25,8 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 
 [Applying ML Link collection](https://applyingml.com/papers/)
 
+[Regression and Other Stories (Gelman, Hill, Vehtari)](https://avehtari.github.io/ROS-Examples/)
+
 **Bookdown Sites**
 
 [Geocomputation with R (Lovelace)](https://geocompr.robinlovelace.net/)
