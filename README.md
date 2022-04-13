@@ -39,6 +39,8 @@ Art Owen's [monte carlo book](http://statweb.stanford.edu/~owen/mc/) and [design
 
 [Data Visualization (Healy)](https://socviz.co/)
 
+[Improving Your Statistical Inferences (Lakens)](https://lakens.github.io/statistical_inferences/)
+
 **Course Notes**
 
 [Causal Inference (Stanford, Wager)](https://web.stanford.edu/~swager/stats361.pdf)
