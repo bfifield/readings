@@ -52,3 +52,5 @@
 [Art Owen - Monte Carlo](http://statweb.stanford.edu/~owen/mc/) 
 
 [R Dataset Collection (Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/)
+
+[Github and R (Sec 9.1 on PATs)](https://happygitwithr.com/index.html)
