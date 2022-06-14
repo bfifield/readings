@@ -11,7 +11,7 @@
 
 [Causal Inference Course Notes (Stanford, Wager)](https://web.stanford.edu/~swager/stats361.pdf)
 
-## Data Anaysis/Research Design/Econometrics
+## Data Analysis/Research Design/Econometrics
 
 [Econometrics (Hansen)](https://www.ssc.wisc.edu/~bhansen/econometrics/)
 
