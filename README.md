@@ -49,10 +49,18 @@
 
 [Applying ML Link collection](https://applyingml.com/papers/)
 
+## R
+
+[R for Data Science (Wickham)](https://r4ds.had.co.nz/)
+
+[Advanced R (Wickham)](https://adv-r.hadley.nz/)
+
+[Github and R (Sec 9.1 on PATs)](https://happygitwithr.com/index.html)
+
 ## Uncategorized
 
 [Art Owen - Monte Carlo](http://statweb.stanford.edu/~owen/mc/) 
 
 [R Dataset Collection (Arel-Bundock)](https://vincentarelbundock.github.io/Rdatasets/)
 
-[Github and R (Sec 9.1 on PATs)](https://happygitwithr.com/index.html)
+
