@@ -9,6 +9,8 @@
 [Hernán and Robins](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
   - [All the DAGs from the book](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
 
+[Facure Python Causality Handbook](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+
 [Causal Inference Course Notes (Stanford, Wager)](https://web.stanford.edu/~swager/stats361.pdf)
 
 ## Data Analysis/Research Design/Econometrics
